@@ -1,5 +1,13 @@
 # Tugas-11-Pertemuan-13
 
+Nama : Rahman Hidayat
+
+NIM  : 311810499
+
+Kelas: TI. B1. 18
+
+---
+
 ## Membuat Dashboard Data Trasaksi PT. MITRA COPIERINDO MANDIRI ##
 
 1. Berikut tampilan Dashboard Utama
